@@ -1,0 +1,15 @@
+.cardItem {
+    border: 0;
+    position: static;
+    margin-left: 0;
+}
+
+.card-button {
+    position: relative;
+    bottom: 0;
+}
+
+.card-img {
+    height: 270px;
+    border-radius: 10px;
+}
