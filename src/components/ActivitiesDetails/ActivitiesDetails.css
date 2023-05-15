@@ -1,0 +1,58 @@
+.profile {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.profile-image {
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    margin-top: 20px;
+}
+
+.profile-details {
+    margin-top: 20px;
+}
+
+.profile-details p {
+    font-size: x-large;
+    margin: 3px;
+    margin-left: 20px;
+    font-weight: 700;
+}
+
+.person-details {
+    background-color: antiquewhite;
+    border-radius: 20px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.person-detail {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.person-detail p {
+    margin: 0;
+}
+
+.break-time {
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    justify-content: space-around;
+}
+
+.break-time button {}

@@ -12,7 +12,7 @@ const Activities = () => {
                 <h3 className='my-5'>Select today’s exercise</h3>
                 <Sports></Sports>
             </div>
-            <div className='col-md-2 mx-auto bg-white mt-5'>
+            <div className='col-md-3 mx-auto bg-white mt-5 rounded'>
                 <ActivitiesDetails></ActivitiesDetails>
             </div>
         </div>
